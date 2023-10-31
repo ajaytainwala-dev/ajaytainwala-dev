@@ -14,7 +14,7 @@ My name is Ajay Tainwala.I am a student of Bachelor in Computer Application💻�
 
 ### My Projects
 - I have made a Website for an educational academy named <strong> Gyan Academy of Commerce and Science</strong>
-<a href="https://guanacademy.github.io/GACS" >Gyan Academy Website</a>
+<a href="https://gyanacademy.github.io/GACS" >Gyan Academy Website</a>
 <!--
 **ajaytainwala-dev/ajaytainwala-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
